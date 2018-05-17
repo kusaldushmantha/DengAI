@@ -1,0 +1,12 @@
+method1
+sj best_estimator:200
+iq best_estimator:100
+sj mae:22.451462765957448
+iq mae:7.68653846153846
+
+method1
+sj best_estimator:200
+iq best_estimator:100
+sj mae:22.451462765957448
+iq mae:7.68653846153846
+
